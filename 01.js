@@ -18,7 +18,6 @@ const imparNumbers = randomNumbers.filter(verificaNumbers)
 console.log(imparNumbers)
 
 
-
 /* 
 Quando eu devo usar o filter: 
 
